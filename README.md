@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Chirag Ailani</h1>
-<h3 align="center">I'm aspiring backend developer from India</h3>
+<h3 align="center">I'm aspiring Backend developer.</h3>
+
+- 📫 How to reach me **chiragailani35@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hdwbRKfboVpV8PX85zKxVqGvBO2mxs84/view?usp=sharing](https://drive.google.com/file/d/1hdwbRKfboVpV8PX85zKxVqGvBO2mxs84/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chirag-ailani-252131212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-ailani-252131212/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/chirag_123456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/chirag_123456" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/chirag35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/chirag35" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/chiragailani35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chiragailani35/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/chiragailani35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/chiragailani35" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
