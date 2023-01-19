@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Ailani</h1>
-<h3 align="center">I'm aspiring Backend developer.</h3>
+<h3 align="center">I'm an aspiring Backend developer.</h3>
 
 - 📫 How to reach me **chiragailani35@gmail.com**
 
