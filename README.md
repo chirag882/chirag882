@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **chiragailani35@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1M0FUyEq9CpyFHbieNNpQZ5GPPTVLaXIP/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1qcoB3FDQPEapoj8Yu7su7XZrY-uwLdXE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
